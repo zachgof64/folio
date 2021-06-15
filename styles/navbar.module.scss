@@ -1,0 +1,18 @@
+@import "./vars.scss";
+
+.topNav {
+    width: 100%;
+    background-color: $nav-bg;
+    height: 60px;
+}
+
+.navList {
+    @include z0;
+    display: flex;
+    padding: 2px;
+    list-style-type: none;
+    width: 100%;
+    color: #fff;
+    height: 100%;
+    align-items: center;
+}

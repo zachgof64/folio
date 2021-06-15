@@ -1,6 +1,6 @@
 {
-    "name": "next-app-template",
-    "version": "1.0.1",
+    "name": "folio",
+    "version": "1.0.0-SNAPSHOT",
     "private": true,
     "scripts": {
         "dev": "next dev",
@@ -38,20 +38,13 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/zeuce/next-app-template.git"
+        "url": "git+https://github.com/zachgof64/folio.git"
     },
-    "description": "NextJS template",
-    "bugs": {
-        "url": "https://github.com/zeuce/next-app-template/issues"
-    },
-    "homepage": "https://github.com/zeuce/next-app-template#readme",
+    "description": "My portfolio",
     "main": ".pnp.js",
-    "directories": {
-        "test": "tests"
-    },
     "keywords": [
         "next template"
     ],
     "author": "zeuce",
-    "license": "MIT"
+    "license": "UNLICENSED"
 }
